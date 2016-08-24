@@ -11,7 +11,7 @@ public class FixDebugFive3
    {
       int item;
       String output;
-      final int HIGH = 11111;
+      final int HIGH = 111;
       final int CUTOFF = 999;
       final int LOW = 500;
       Scanner input = new Scanner(System.in);
